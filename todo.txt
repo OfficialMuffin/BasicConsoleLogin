@@ -1,0 +1,2 @@
+- Fix backspace key being interpreted as a character
+- Connect to SQL server to access usernames and passwords
